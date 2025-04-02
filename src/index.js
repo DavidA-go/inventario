@@ -7,6 +7,3 @@ const main = () =>{
 }
 
 main();
-
-//Empiezo la configuracion de los controladores
-//https://github.com/LaleChan/inventario.git - repositorio creado.
