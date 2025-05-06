@@ -6,6 +6,7 @@ const router = Router();
 
 /* configuramos respuesta desde server metodo http get */
 router.get("/", clientesController.getClientes )
+router.post("/", clientesController.postClientes )
 
 /* hacemos disponible al router en toda la app */
 export default router;
